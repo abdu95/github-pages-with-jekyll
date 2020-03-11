@@ -3,7 +3,7 @@ author: GitHub User
 email: abdumalik2014@gmail.com
 theme: jekyll-theme-cayman
 description: > # this means to ignore newlines until "baseurl:"
-  For now, I plan to write some of my new findings, explorations related to programming. 
+  For now, I plan to write some of my new findings, explorations related to programming. >
   Maybe something beyond programming will also start appearing here.
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
